@@ -1,0 +1,5 @@
+﻿  ConnectionPool.cpp
+P:\C++\MySQL连接池\mysql连接池\mysql连接池\ConnectionPool.cpp(71,29): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+P:\C++\MySQL连接池\mysql连接池\mysql连接池\ConnectionPool.cpp(75,35): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+P:\C++\MySQL连接池\mysql连接池\mysql连接池\ConnectionPool.cpp(44,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  mysql连接池.vcxproj -> P:\C++\MySQL连接池\mysql连接池\x64\Debug\CommonConnectionPool.exe
